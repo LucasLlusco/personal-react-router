@@ -3,9 +3,8 @@
 <div align="left">
    Mi propio react-router-dom hecho como parte de uno de los desafíos del curso 
    <a href="https://platzi.com/cursos/react-router/">Navegación con React Router</a> de Platzi.
-
    El desafío consiste en "clonar" la librería react-router-dom ofreciendo los mismos componentes y hooks utilizando los conocimientos aprendidos durante el curso sobre react.js, router-dom v5 y v6.
-   
+
    Logré crear los components: Routes, Route, Navigate, Link, Navlink y los hooks useNavigate, useParams,
    useLocation. De esta forma pude crear un ruteo básico con hash y dependiendo de la ruta renderizar un
    componente o no, obtener los params si los hay y con el evento hashChange navegar a tal path.
