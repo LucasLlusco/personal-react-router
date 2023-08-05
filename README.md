@@ -1,4 +1,4 @@
-<h1 align="left">my personal react-router-dom</h1>
+<h1 align="center">my personal react-router-dom</h1>
 
 <div align="left">
    Mi propio react-router-dom hecho como parte de uno de los desafíos del curso 
